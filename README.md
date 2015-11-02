@@ -30,3 +30,8 @@ or
 ```
 moment().getWeekdayWeekInMonth(moment('2016-10-10'));
 ```
+
+## License
+Copyright © 2015 Aren Chen.
+
+The "moment-fn-weekday" [Moment.js](http://momentjs.com/) plugin is licensed under the Apache License, Version 2.0.
